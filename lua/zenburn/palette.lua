@@ -7,7 +7,7 @@ return {
 	Constant = { fg="#dca3a3", bold=true, },
 	Cursor = { fg="#000d18", bg="#8faf9f", bold=true, },
 	CursorColumn = { bg="#4f4f4f", },
-	CursorLine = { bg="#434443", },
+	CursorLine = { bg="#434443", fg="#97a46a" },
 	CursorLineNr = { fg="#d2d39b", bg="#2f2f2f" },
 	Debug = { fg="#bca3a3", bold=true, },
 	Define = { fg="#ffcfaf", bold=true, },
