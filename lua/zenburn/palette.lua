@@ -62,7 +62,7 @@ return {
 	StatusLineNC = { fg="#2e3330", bg="#88b090", },
 	StorageClass = { fg="#c3bf9f", bold=true, },
 	String = { fg="#cc9393", },
-	Structure = { fg="#efefaf", bold=true, },
+	Structure = { fg="#efefaf", bg="#9f9f9f" bold=true, },
 	TabLine = { fg="#b6bf98", bg="#353535", bold=true, },
 	TabLineFill = { fg="#cfcfaf", bg="#353535", bold=true, },
 	TabLineSel = { fg="#efefef", bg="#3a3a39", bold=true, },
