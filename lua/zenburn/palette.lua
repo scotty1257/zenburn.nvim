@@ -25,7 +25,8 @@ return {
 	Function = { fg="#efef8f", },
 	Identifier = { fg="#efdcbc", },
 	Include = { fg="#dfaf8f" ,bold=true, },
-	IncSearch = { bg="#f8f893", fg="#385f38", },
+	-- IncSearch = { bg="#f8f893", fg="#385f38", }, ORIGINAL
+	IncSearch = { bg="#dada9e", fg="#385f38", },	
 	Keyword = { fg="#f0dfaf", bold=true, },
 	Label = { fg="#dfcfaf", underline=true, },
 	LineNr = { fg="#5d6262", bg="#353535" },
